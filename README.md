@@ -10,7 +10,7 @@
 </a>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
 </div>
-<h3>some things about me<img style="width: 50px;" src="thinking-hmm.gif"></h3>
+<h3>some things about me<img style="width: 30px;" src="thinking-hmm.gif"></h3>
 <hr>
 <p>i am new to programming around a few months in</p>
 <p>i focus in web develoment</p>
@@ -20,7 +20,7 @@
 <ul>
     <li>i code daily with .js .html .css .jsx</li>
     <li>some other things i like gaming🎮, fitness💪, my cat🐈</li>
-    <li></li>
+    <li>i love learning and building new things</li>
 </ul>
 <!--
 
