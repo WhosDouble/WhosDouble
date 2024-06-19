@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="readMe.css">
-<h1>Hi there <img src="hi.gif"></h1>
+<h1>Hi there <img style="width: 30px;"  src="hi.gif"></h1>
 <hr>
 <h3 style="color: aqua;">best places to contact me</h3>
 <a style="float: right;" href="rangocode23@gmail.com">
