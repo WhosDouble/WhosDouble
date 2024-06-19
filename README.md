@@ -1,7 +1,7 @@
 <header>
         <h1>Hi there <img src="hi.gif" alt="Hi there" style="width: 30px;"></h1>
         <h3>best places to contact me</h3>
-        <a href="https://discordapp.com/users/brosdouble"><img style="widht:30px;" src="discord-discord-wing.gif"></a> <a href="mailto:rangocode23@gmail.com"><img style="widht:30px;" src="gmail.gif"></a>
+        <a href="https://discordapp.com/users/brosdouble"><img style="width:30px;" src="discord-discord-wing.gif"></a> <a href="mailto:rangocode23@gmail.com"><img style="width:30px;" src="gmail.gif"></a>
 </header>
 <section>
     <h3 style="color:red;">about me</h3>
