@@ -1,10 +1,10 @@
 <header>
         <h1>Hi there <img src="hi.gif" alt="Hi there" style="width: 30px;"></h1>
         <h3>best places to contact me</h3>
-        <button></button> <button></button>
+        <button>dis</button> <button>email</button>
 </header>
 <section>
-    <h3>about me</h3>
+    <h3 style="color:red">about me</h3>
     <hr>
     <ul>
         <li>💻 I'm relatively new to programming, with a focus on web development.</li>
@@ -24,11 +24,5 @@
     <p>with CSS, I'm constantly exploring new possibilities.</p> <br> <br>
     <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
     <p>I'm always eager to collaborate and grow as a developer.</p>
-</section>
-
-h3{
-   color: red;
-   font-size:35px;
-}
-        
+</section>    
 
