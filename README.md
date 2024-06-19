@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="readMe.css">
-<h1>Hi there <img src="https://tenor.com/view/hi-gif-23520343"></h1>
+<h1>Hi there <img src="hi.gif"></h1>
 <hr>
 <h3 style="color: aqua;">best places to contact me</h3>
 <a style="float: right;" href="rangocode23@gmail.com">
