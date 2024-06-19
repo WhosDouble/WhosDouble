@@ -1,10 +1,10 @@
 <header>
         <h1>Hi there <img src="hi.gif" alt="Hi there" style="width: 30px;"></h1>
         <h3>best places to contact me</h3>
-        <button>dis</button> <button>email</button>
+        <a href="https://discordapp.com/users/brosdouble"><img style="widht:30px;" src="discord-discord-wing.gif"></a> <a href="mailto:rangocode23@gmail.com"><img style="widht:30px;" src="gmail.gif"></a>
 </header>
 <section>
-    <h3 style="color:red">about me</h3>
+    <h3 style="color:red;">about me</h3>
     <hr>
     <ul>
         <li>💻 I'm relatively new to programming, with a focus on web development.</li>
@@ -12,7 +12,7 @@
         <li>🌟 I love creating and learning new things through coding.</li>
         <li>⚙️ Daily tools include JavaScript, HTML, CSS, and JSX.</li>
     </ul> <br>
-    <h3><strong>interest<strong></h3>
+    <h3><strong>Other interest<strong></h3>
     <ul>
         <li>🎮 Gaming</li>
         <li>🏋️ Fitness</li>
