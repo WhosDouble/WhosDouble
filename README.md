@@ -10,7 +10,7 @@
 </a>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
 </div>
-<h3>some things about me<img  style="margin-left: 8px;" style="width: 25px;" src="thinking-hmm.gif"></h3>
+<h3>some things about me<img style="width: 25px;" src="thinking-hmm.gif"></h3>
 <hr>
 <p>i am new to programming around a few months in</p>
 <p>i focus in web develoment</p>
