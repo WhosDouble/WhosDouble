@@ -24,5 +24,8 @@
     <p>with CSS, I'm constantly exploring new possibilities.</p> <br> <br>
     <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
     <p>I'm always eager to collaborate and grow as a developer.</p>
-</section>    
+</section>
+<section>
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whosdouble)](https://github.com/anuraghazra/github-readme-stats)
+</section>
 
