@@ -26,6 +26,7 @@
     <p>I'm always eager to collaborate and grow as a developer.</p>
 </section>
 <section>
-        <img src="https://github-readme-stats.vercel.app/api?username=ronanru&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=WhosDouble&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhosDouble&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </section>
 
