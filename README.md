@@ -12,6 +12,9 @@
         <li>🌟 I love creating and learning new things through coding.</li>
         <li>⚙️ Daily tools include JavaScript, HTML, CSS, and JSX.</li>
     </ul> <br>
+        <section>
+                <img src="https://skillicons.dev/icons?i=react,svelte,tailwindcss,html,css,javascript">
+        </section>
     <h3><strong>Other interest<strong></h3>
     <ul>
         <li>🎮 Gaming</li>
