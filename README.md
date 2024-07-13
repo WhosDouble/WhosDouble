@@ -26,6 +26,6 @@
     <p>I'm always eager to collaborate and grow as a developer.</p>
 </section>
 <section>
-        <img src ="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosDouble)](https://github.com/anuraghazra/github-readme-stats)">
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhosDouble)](https://github.com/anuraghazra/github-readme-stats)
 </section>
 
