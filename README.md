@@ -8,7 +8,7 @@
     <hr>
     <ul>
         <li>💻 a front end engineer with a passion to make things responsive and fun on the internet.</li>
-        <li>🔧 I enjoy working with technologies like JavaScript, React.js, and Node.js.</li>
+        <li>🔧 I enjoy working with technologies like svelte, React, and Tailwindcss.</li>
         <li>🌟 I love creating and learning new things through coding.</li>
         <li>⚙️ Daily tools include svelte, javascript, and Tailwindcss</li>
     </ul> <br>
