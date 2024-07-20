@@ -7,13 +7,15 @@
     <h3 style="color:red;">about me</h3>
     <hr>
     <ul>
-        <li>💻 I'm relatively new to programming, with a focus on web development.</li>
+        <li>💻 a front end engineer with a passion to make things responsive and fun on the internet.</li>
         <li>🔧 I enjoy working with technologies like JavaScript, React.js, and Node.js.</li>
         <li>🌟 I love creating and learning new things through coding.</li>
-        <li>⚙️ Daily tools include JavaScript, HTML, CSS, and JSX.</li>
+        <li>⚙️ Daily tools include svelte, javascript, and Tailwindcss</li>
     </ul> <br>
         <section>
+                <h3>i like to grind codewars sometimes</h3>
                 <img src="https://www.codewars.com/users/imsodouble/badges/large"> <br>
+                <h3>my tech stack</h3>
                 <img src="https://skillicons.dev/icons?i=react,svelte,tailwindcss,html,css,javascript">
         </section>
     <h3><strong>Other interest<strong></h3>
