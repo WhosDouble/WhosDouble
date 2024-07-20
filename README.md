@@ -2,6 +2,7 @@
         <h1>Hi there <img src="hi.gif" alt="Hi there" style="width: 30px;"></h1>
         <h3>best places to contact me</h3>
         <a href="https://discordapp.com/users/brosdouble"><img style="width:30px; align:center;" src="discord-discord-wink.gif"></a> <a href="mailto:rangocode23@gmail.com"><img style="width:30px;" src="gmail.gif"></a>
+        <p>and heres my portfolio <a href="https://sirrangosportfoliov1.netlify.app" target="_blank"></a></p>
 </header>
 <section>
     <h3 style="color:red;">about me</h3>
@@ -25,9 +26,6 @@
         <li>🐱 My cat</li>
     </ul> <br>
     <h3><strong>More About Me</strong></h3>
-    <p>I've been diving into programming for a few months now, and my passion lies in building and learning.</p>
-    <p>Whether it's designing user interfaces with React.js, crafting server-side logic with Node.js, or styling </p>
-    <p>with CSS, I'm constantly exploring new possibilities.</p> <br> <br>
     <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
     <p>I'm always eager to collaborate and grow as a developer.</p>
 </section>
