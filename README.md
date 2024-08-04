@@ -10,8 +10,8 @@
     <ul>
         <li>💻 a front end engineer with a passion to make things responsive and fun on the internet.</li>
         <li>🔧 I enjoy working with technologies like svelte, React, and Tailwindcss.</li>
-        <li>🌟 I love creating and learning new things through coding.</li>
-        <li>⚙️ Daily tools include svelte, javascript, and Tailwindcss</li>
+        <li>🌟 I love jumping into new projects, picking up new skills, and making cool stuff with code. I'm a fast learner who enjoys discovering and creating.</li>
+        <li>⚙️ Daily tools include svelte, react, javascript, and Tailwindcss</li>
     </ul> <br>
         <section>
                 <h3>i like to grind codewars sometimes</h3>
@@ -24,6 +24,7 @@
         <li>🎮 Gaming</li>
         <li>🏋️ Fitness</li>
         <li>🐱 My cat</li>
+        <li>🍿 Movies</li>
     </ul> <br>
     <h3><strong>More About Me</strong></h3>
     <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
