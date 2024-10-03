@@ -17,7 +17,7 @@
                 <h3>i like to grind codewars sometimes</h3>
                 <img src="https://www.codewars.com/users/imsodouble/badges/large"> <br>
                 <h3>my tech stack</h3>
-                <img src="https://skillicons.dev/icons?i=svelte,react,tailwindcss,javascript,css,html">
+                <img src="https://skillicons.dev/icons?i=svelte,react,tailwindcss,typescript,javascript,css,html">
         </section>
     <h3><strong>Other interest<strong></h3>
     <ul>
