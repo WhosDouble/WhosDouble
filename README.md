@@ -23,7 +23,6 @@
     <ul>
         <li>🎮 Gaming</li>
         <li>🏋️ Fitness</li>
-        <li>🐱 My cat</li>
         <li>🍿 Movies</li>
     </ul> <br>
     <h3><strong>More About Me</strong></h3>
