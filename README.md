@@ -27,7 +27,7 @@
         <li>🏋️ Fitness</li>
         <li>🚵‍♀️ bike trails</li>
     </ul> <br>
-    <h3><strong>More About Me</strong></h3>
+    <h3><strong>Extra stuff</strong></h3>
     <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
     <p>I'm always eager to collaborate and grow as a developer.</p>
 </section>
