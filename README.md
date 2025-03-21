@@ -18,7 +18,7 @@
                 <h3>my tech stack</h3>
                 <img src="https://skillicons.dev/icons?i=svelte,react,tailwindcss,typescript,javascript,python,jest,css,html,">
                 <h3>other skills</h3>
-                <img src="https://skillicons.dev/icons?i=figma"
+                <img src="https://skillicons.dev/icons?i=figma,vite,nextjs,firebase"
         </section>
     <h3><strong>Other interest<strong></h3>
     <ul>
