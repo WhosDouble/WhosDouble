@@ -8,9 +8,9 @@
     <h3 style="color:red;">about me</h3>
     <hr>
     <ul>
-        <li>💻 a front end engineer with a passion to make things responsive and fun on the internet.</li>
+        <li>💻 A front end developer with a passion to make things interactive and fun on the internet.</li>
         <li>🔧 I enjoy finding new techologies to use/learn</li>
-        <li>🌟 I love jumping into new projects, picking up new skills, and making cool stuff with code. I'm a fast learner who enjoys discovering and creating.</li>
+        <li>🌟 I love getting into new projects, picking up new skills, and making cool stuff with code. I enjoy learning, discovering and creating.</li>
     </ul> <br>
         <section>
                 <h3>i like to grind codewars sometimes</h3>
