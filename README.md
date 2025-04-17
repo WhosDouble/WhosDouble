@@ -13,7 +13,7 @@
         <li>🌟 I love getting into new projects, picking up new skills, and making cool stuff with code. I enjoy learning, discovering and creating.</li>
     </ul> <br>
         <section>
-                <h3>i like to grind codewars sometimes</h3>
+                <h3>i like to grind codewars (sometimes...)</h3>
                 <img src="https://www.codewars.com/users/imsodouble/badges/large"> <br>
                 <h3>skills that pay the bills</h3>
                 <img src="https://skillicons.dev/icons?i=svelte,react,typescript,javascript,python,docker,jest,vitest,tailwindcss,css,html,">
