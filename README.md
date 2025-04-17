@@ -8,9 +8,9 @@
     <h3 style="color:red;">about me</h3>
     <hr>
     <ul>
-        <li>💻 A front end developer with a passion to make things interactive and fun on the internet.</li>
-        <li>🔧 I enjoy finding new techologies to use/learn</li>
-        <li>🌟 I love getting into new projects, picking up new skills, and making cool stuff with code. I enjoy learning, discovering and creating.</li>
+        <li>💻 A programmer with a passion to make things interactive and fun on the internet.</li>
+        <li>🔧 I always like finding new techologies to use/learn</li>
+        <li>🌟 I love getting into new projects, getting da skills and making cool stuff with code. I enjoy learning, discovering and creating.</li>
     </ul> <br>
         <section>
                 <h3>i like to grind codewars (sometimes...)</h3>
@@ -27,8 +27,8 @@
         <li>🚵‍♀️ bike trails</li>
     </ul> <br>
     <h3><strong>Extra stuff</strong></h3>
-    <p>Feel free to connect with me to chat about programming, share ideas, or discuss anything tech-related. </p>
-    <p>I'm always eager to collaborate and grow as a developer.</p>
+    <p>Feel free to connect with me to chat about programming or discuss anything tech-related. </p>
+    <p>I love to collaborate and grow as a developer.</p>
 </section>
 <section>
         <img src="https://github-readme-stats.vercel.app/api?username=WhosDouble&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
