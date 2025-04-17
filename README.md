@@ -16,7 +16,7 @@
                 <h3>i like to grind codewars sometimes</h3>
                 <img src="https://www.codewars.com/users/imsodouble/badges/large"> <br>
                 <h3>skills that pay the bills</h3>
-                <img src="https://skillicons.dev/icons?i=svelte,react,typescript,javascript,python,jest,vitest,tailwindcss,css,html,">
+                <img src="https://skillicons.dev/icons?i=svelte,react,typescript,javascript,python,docker,jest,vitest,tailwindcss,css,html,">
                 <h3>other skills</h3>
                 <img src="https://skillicons.dev/icons?i=figma,vite,nextjs,firebase"
         </section>
